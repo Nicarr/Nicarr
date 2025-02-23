@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :hammer_and_wrench: Lenguajes y herramientas :
+### :hammer_and_wrench: Programming Languages and Tools:
 
 <div id="header" align="center">
   <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
