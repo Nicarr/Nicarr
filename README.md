@@ -52,3 +52,19 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicarr&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
   </a>
 </div>
+
+---
+
+### 🚀 Check Out Some Of My Projects
+
+<div align="center">
+  <a href="https://github.com/Nicarr/Zyfra-Gold-ML-Model">
+    <img src="https://img.shields.io/badge/Zyfra%20Gold%20ML%20Model-FF6F61?style=for-the-badge&logo=github&logoColor=white" alt="Zyfra Gold ML Model"/>
+  </a>
+  <a href="https://github.com/Nicarr/Ice-Game-Analysis">
+    <img src="https://img.shields.io/badge/Ice%20Game%20Analysis-88D8B0?style=for-the-badge&logo=github&logoColor=white" alt="Ice Game Analysis"/>
+  </a>
+  <a href="https://github.com/Nicarr/Final-Project">
+    <img src="https://img.shields.io/badge/Final%20Project-FFCC00?style=for-the-badge&logo=github&logoColor=white" alt="Final Project"/>
+  </a>
+</div>
